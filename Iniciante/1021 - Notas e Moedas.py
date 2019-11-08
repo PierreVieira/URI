@@ -1,3 +1,7 @@
+"""
+Autor: Pierre Vieira
+Data da submissão: 25/01/2019 00:59:32
+"""
 valor = -1
 while valor < 0 or valor > 1000000:
     valor = float(input())
