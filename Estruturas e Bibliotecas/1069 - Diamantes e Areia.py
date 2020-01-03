@@ -1,3 +1,7 @@
+"""
+Autor: Pierre Vieira
+Data da submissão: 03/01/2020 00:59:58
+"""
 n = int(input())
 for k in range(n):
     entrada = list(input())
