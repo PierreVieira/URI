@@ -2,6 +2,8 @@
 Autor: Pierre Vieira
 Data da submissão: 02/03/2019 15:37:58
 """
+
+
 def correct(lista):
     if lista.count('(') != lista.count(')'):
         return 'incorrect'
@@ -10,6 +12,7 @@ def correct(lista):
     if lista[-1] == '(':
         return 'incorrect'
     return 'correct'
+
 
 while True:
     try:
