@@ -2,6 +2,8 @@
 Autor: Pierre Vieira
 Data da submissão: 08/11/2019 13:01:14
 """
+
+
 def changeHTML(linha):
     string = ""
     primeiro_underline = True
