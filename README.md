@@ -5,5 +5,5 @@
 <p>Link do site: https://www.urionlinejudge.com.br/judge/en/categories</p>
 </header>
 <p align = "center">
- <img src= https://user-images.githubusercontent.com/49538805/71648502-b9863480-2ce3-11ea-8b0e-ceeeb6ac3591.jpg>
+ <img src= https://user-images.githubusercontent.com/49538805/72684805-8a810880-3ac2-11ea-9a9c-7d098522029f.jpg>
 </p>
