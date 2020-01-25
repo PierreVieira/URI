@@ -6,6 +6,6 @@ while True:
     try:
         linha = input().split()
         n1, n2 = list(map(int, linha))
-        print(int(n1 ^ n2)) #Operador ^ é uma xor em python
+        print(int(n1 ^ n2))  # Operador ^ é uma xor em python
     except EOFError:
         break
