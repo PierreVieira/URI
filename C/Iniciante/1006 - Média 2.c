@@ -1,11 +1,8 @@
 /*
  * Autor: Pierre Vieira
- * Data de submissão: 27/01/2020 21:31:57
+ * Data de submissão: 09/02/2020 18:34:27
  */
-
-#include <stdio.h>
-
-
+ #include <stdio.h>
 int main(){
     float n1, n2;
     scanf("%f", &n1);
