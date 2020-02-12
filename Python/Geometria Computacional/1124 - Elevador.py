@@ -7,7 +7,7 @@ while True:
     l, c, r1, r2 = map(int, linha)
     if l == c == r1 == r2 == 0:
         break
-    if min(l,c) < max(r1, r2)*2:
+    if min(l, c) < max(r1, r2)*2:
         print('N')
     else:
         r1 += r2
