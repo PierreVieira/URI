@@ -102,7 +102,7 @@ class BinarySearchTree(BinaryTree):
     def insert(self, element):
         """
         Faz a inserção de um nó em uma árvore binária de busca.
-        :param value: valor a ser inserido.
+        :param element: valor a ser inserido.
         :return: None
         """
         parent = None  # determina o pai do novo nó a ser inserido
