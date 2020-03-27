@@ -1,6 +1,6 @@
 # URI Problems
 
-Problemas do site [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/judge/en/categories) desenvolvidos em várias lingaugens de programação.
+Problemas do site [URI ONLINE JUDGE](https://www.urionlinejudge.com.br/judge/en/categories) desenvolvidos em várias linguagens de programação.
 <p>Todos os problemas deste repositórios foram aceitos pelo sistema de correção automática do URI e estão separados em pastas respectivas a sua categoria.</p>
 
 <p align = "center">
