@@ -1,3 +1,8 @@
+/*
+* Autor: Pierre Vieira
+* Data de submissão: 12/03/2023 00:42:07
+*/
+
 fun main(args: Array<String>) {
     for (n in 0 until readLine()!!.toInt()) {
         println(
