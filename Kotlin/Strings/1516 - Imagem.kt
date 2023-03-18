@@ -3,7 +3,6 @@
 * Data de submissão: 13/03/2023 15:19:49
 */
 
-
 data class Dimensions(
     val height: Int,
     val width: Int
