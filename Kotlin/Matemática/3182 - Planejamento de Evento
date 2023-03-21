@@ -1,0 +1,29 @@
+/*
+* Autor: Pierre Vieira
+* Data de submissão: 20/03/2023 03:12:19
+*/
+
+fun main(args: Array<String>) {
+    val (n, budget, h, w) = readLine()!!.split(" ").map { it.toInt() }
+
+    var minCost = Int.MAX_VALUE
+
+    repeat(h) {
+        val price = readLine()!!.toInt()
+        val availableBeds = readLine()!!.split(" ").map { it.toInt() }
+        for (i in 0 until w) {
+            if (availableBeds[i] >= n) {
+                val cost = n * price
+                if (cost <= budget && cost < minCost) {
+                    minCost = cost
+                }
+            }
+        }
+    }
+
+    if (minCost == Int.MAX_VALUE) {
+        println("stay home")
+    } else {
+        println(minCost)
+    }
+}
